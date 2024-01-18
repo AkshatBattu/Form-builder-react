@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,16 @@
   to {
     transform: rotate(360deg);
   }
+} */
+ #build-wrap{
+  background: lightgrey;
+  font-family: sans-serif;
+}
+#form-actions btn-group{
+  margin-right: 108px;
+}
+#frmb-1702985525402-save-action{
+  margin-right: 70px;
+  color: antiquewhite;
+  background: #004a8b;
 }
